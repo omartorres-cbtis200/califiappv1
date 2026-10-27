@@ -6,9 +6,9 @@ Proyecto Scrum del Submódulo 2 · CBTIS 200 · 3AM PGR.
 ## Equipo Scrum
 | Responsabilidad | Integrante |
 |---|---|
-| Product Owner | (nombre) |
-| Scrum Master | (nombre) |
-| Desarrolladores | (nombres) |
+| Product Owner | (OMAR) |
+| Scrum Master | (AITOR) |
+| Desarrolladores | (ALISON) |
 
 ## Requisitos
 - Python 3.10 o superior
