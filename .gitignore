@@ -1,0 +1,14 @@
+# Archivos que Python genera solo (no son código nuestro)
+__pycache__/
+*.pyc
+
+# Entorno virtual (cada quien crea el suyo con: python -m venv .venv)
+.venv/
+
+# Configuración personal del editor
+.vscode/
+.idea/
+
+# Basura del sistema operativo
+.DS_Store
+Thumbs.db
